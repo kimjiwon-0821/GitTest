@@ -4,6 +4,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("start");
+		MenuController mc = new MenuController();
+		mc.start();
+		System.out.println("Finish");
 
 	}
 
