@@ -1,4 +1,4 @@
-package gitTest_example;
+package gitTest_Array;
 
 import java.util.Scanner;
 

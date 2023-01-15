@@ -1,4 +1,4 @@
-package gitTest_example;
+package gitTest_Array;
 
 public class Array4 {
 
